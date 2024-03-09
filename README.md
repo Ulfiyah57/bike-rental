@@ -1,7 +1,7 @@
 
 # Bike Rentals - Final Project Data Analytics
 
-This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. Besides that, I also make the dashboard using streamlit, and you can check it by clicking on the link in the right sidebar or in [here](https://bike-sharing-rentals.streamlit.app/).
+This is a final project from Dicoding in the "Belajar Analisis Data Dengan Python" course to make analysis and create a dashboard from the bike sharing dataset. In the notebook file, I attached the way I did the analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. Besides that, I also make the dashboard using streamlit, and you can check it by clicking on the link in the right sidebar or in [here]().
 
 For further information, like the background of this dataset, dataset characteristics, file structures, and more, you can check out the `Readme` file. So in here, I won't explain it any further.
 
@@ -57,12 +57,3 @@ For further information, like the background of this dataset, dataset characteri
 3. Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
 4. Open your VSCode and run the file by clicking the terminal and write it `streamlit run dashboard.py`.
 
-## 4. Screenshots
-
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(91).png?raw=true)
-
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(92).png?raw=true)
-
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(93).png?raw=true)
-
-![alt text](https://github.com/OrNixz/bike-sharing-rentals/blob/main/screenshots/Screenshot%20(94).png?raw=true)
